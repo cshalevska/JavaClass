@@ -11,6 +11,6 @@ public class Practice04 {
 
     public static void main(String[] args) {
         Practice04 p3= new Practice04();
-        p3.verifyBatch12IsGoodEnough(true);
+        p3.verifyBatch12IsGoodEnough(false);
     }
 }
