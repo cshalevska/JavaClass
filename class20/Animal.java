@@ -12,4 +12,3 @@ public class Animal {
         System.out.println(name+" is eating");
     }
 }
-}
