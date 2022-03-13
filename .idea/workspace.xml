@@ -5,9 +5,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40abdf7d-df85-405a-b4f0-0b991a38195d" name="Changes" comment="all good">
-      <change beforePath="$PROJECT_DIR$/class22/IfElseDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class22/MethodOverloadingDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class22/userClass.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/ClassAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/MethodOverloadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/MethodOverloadingDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/Parent1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/SuperDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/SuperKeywordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/SuperTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/classA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class21/userClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class22/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class22/MethodOverloadingDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class22/userClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/Class2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/syntax/review08/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/AliTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/AlisParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/CarTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/DogTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/StaticDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class23/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/BrowserTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/Task1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/ToStringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class20/Human.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/ObjectsAndClassPractice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/Practice02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/Practice03.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +76,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -52,7 +99,6 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -61,16 +107,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/class24" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/com/syntax/review07" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ParentTester">
-    <configuration name="FrogTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class20.FrogTester" />
+  <component name="RunManager" selected="Application.ToStringDemo">
+    <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24.BrowserTester" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class20.*" />
+          <option name="PATTERN" value="class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22.IfElseDemo" />
+    <configuration name="JavaQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.JavaQuiz" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22.*" />
+          <option name="PATTERN" value="class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class21.MethodOverloadDemo" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class23.Main" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class21.*" />
+          <option name="PATTERN" value="class23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverloadingDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class22.MethodOverloadingDemo1" />
+    <configuration name="Task1Tester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24.Task1Tester" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class22.*" />
+          <option name="PATTERN" value="class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParentTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class21.ParentTester" />
+    <configuration name="ToStringDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class24.ToStringDemo" />
       <module name="JavaClass" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class21.*" />
+          <option name="PATTERN" value="class24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,19 +181,19 @@
     <list>
       <item itemvalue="JAR Application.Unnamed" />
       <item itemvalue="JAR Application.Unnamed (1)" />
-      <item itemvalue="Application.IfElseDemo" />
-      <item itemvalue="Application.MethodOverloadingDemo1" />
-      <item itemvalue="Application.MethodOverloadDemo" />
-      <item itemvalue="Application.FrogTester" />
-      <item itemvalue="Application.ParentTester" />
+      <item itemvalue="Application.JavaQuiz" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Task1Tester" />
+      <item itemvalue="Application.BrowserTester" />
+      <item itemvalue="Application.ToStringDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParentTester" />
-        <item itemvalue="Application.FrogTester" />
-        <item itemvalue="Application.MethodOverloadDemo" />
-        <item itemvalue="Application.MethodOverloadingDemo1" />
-        <item itemvalue="Application.IfElseDemo" />
+        <item itemvalue="Application.ToStringDemo" />
+        <item itemvalue="Application.BrowserTester" />
+        <item itemvalue="Application.Task1Tester" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JavaQuiz" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +255,21 @@
       <option name="project" value="LOCAL" />
       <updated>1646970791672</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="all good">
+      <created>1646971361789</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1646971361789</updated>
+    </task>
+    <task id="LOCAL-00009" summary="all good">
+      <created>1646971417762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1646971417762</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,6 +298,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="all good" />
     <option name="LAST_COMMIT_MESSAGE" value="all good" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/class24/Task1Tester.java</url>
+          <line>5</line>
+          <properties class="class24.Task1Tester" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JavaClass$Tester1.ic" NAME="Tester1 Coverage Results" MODIFIED="1646799696776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
