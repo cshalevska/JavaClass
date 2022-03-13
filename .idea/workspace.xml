@@ -5,48 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40abdf7d-df85-405a-b4f0-0b991a38195d" name="Changes" comment="all good">
-      <change afterPath="$PROJECT_DIR$/class21/ClassAA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/MethodOverloadDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/MethodOverloadingDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/Parent1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/SuperDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/SuperKeywordDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/SuperTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/classA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class21/userClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class22/IfElseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class22/MethodOverloadingDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class22/userClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/Class2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/StringClass4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/syntax/review08/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/AliTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/AlisParents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/CarTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/DogTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/StaticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class23/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/BrowserTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class24/ToStringDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class22/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class22/MethodOverloadingDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class22/userClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class24/PhoneTester.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class20/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/ObjectsAndClassPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/Practice02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/com/syntax/review07/Practice03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class22/IfElseDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class22/MethodOverloadingDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/class22/userClass.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,9 +74,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/class24" />
       <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/class24" />
       <recent name="$PROJECT_DIR$/src/com/syntax/review07" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="class24" />
     </key>
   </component>
   <component name="RunManager" selected="Application.ToStringDemo">
@@ -179,13 +149,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JAR Application.Unnamed" />
-      <item itemvalue="JAR Application.Unnamed (1)" />
+      <item itemvalue="Application.BrowserTester" />
       <item itemvalue="Application.JavaQuiz" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Task1Tester" />
-      <item itemvalue="Application.BrowserTester" />
       <item itemvalue="Application.ToStringDemo" />
+      <item itemvalue="JAR Application.Unnamed (1)" />
+      <item itemvalue="JAR Application.Unnamed" />
     </list>
     <recent_temporary>
       <list>
@@ -269,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646971417762</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="all good">
+      <created>1647189430967</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1647189430967</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
